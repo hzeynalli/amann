@@ -1,7 +1,5 @@
 # AMANN
 
-Concept site for AMANN, a British-styled multibrand house for new fine jewellery, opening first in Dubai.
+Presentation: the project, the partnership, the numbers and the roles.
 
-Open the page: https://hzeynalli.github.io/amann/
-
-One self-contained HTML file (fonts, artwork and animation inlined). Concept draft, October 2026.
+Live at https://hzeynalli.github.io/amann/ — a single self-contained page (built from a private source project). Figures are planning numbers built from research, not forecasts.
