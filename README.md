@@ -1,5 +1,5 @@
 # AMANN
 
-Presentation: the project, the partnership, the numbers and the roles.
+Presentation for Stephen Webster: the project, his role as curator, the partnership and the plan.
 
-Live at https://hzeynalli.github.io/amann/ — a single self-contained page (built from a private source project). Figures are planning numbers built from research, not forecasts.
+Live at https://hzeynalli.github.io/amann/ — a single self-contained page (built from a private source project).
